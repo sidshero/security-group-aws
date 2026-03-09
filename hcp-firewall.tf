@@ -1,3 +1,3 @@
-resource "aws_security_group" "example" {
+resource "aws_security_group" "hcp-security" {
   name        = "hcp-terraform-firewall"
 }
